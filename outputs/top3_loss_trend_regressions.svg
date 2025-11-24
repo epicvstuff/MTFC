@@ -1,0 +1,148 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='640' viewBox='0 0 1200 640' font-family='Helvetica, Arial, sans-serif'>
+  <rect x='0' y='0' width='1200' height='640' fill='#ffffff' />
+  <style>
+    text { font-size: 14px; }
+    .title { font-size: 22px; font-weight: bold; fill: #111; }
+    .subtitle { font-size: 14px; fill: #555; }
+    .legend { font-size: 14px; }
+  </style>
+  <text class='title' x='600.0' y='36' text-anchor='middle'>Top 3 Loss Claim Trends (1994-2024)</text>
+  <text class='subtitle' x='600.0' y='58' text-anchor='middle'>Yearly policies paid and linear regression lines</text>
+  <line x1='90' y1='70' x2='90' y2='560' stroke='#333' stroke-width='1.2' />
+  <line x1='90' y1='550' x2='940' y2='550' stroke='#333' stroke-width='1.2' />
+  <line x1='90' y1='550.0' x2='940' y2='550.0' stroke='#e0e0e0' />
+  <text x='80' y='555.0' text-anchor='end'>0</text>
+  <line x1='90' y1='456.0' x2='940' y2='456.0' stroke='#e0e0e0' />
+  <text x='80' y='461.0' text-anchor='end'>175</text>
+  <line x1='90' y1='362.0' x2='940' y2='362.0' stroke='#e0e0e0' />
+  <text x='80' y='367.0' text-anchor='end'>350</text>
+  <line x1='90' y1='268.0' x2='940' y2='268.0' stroke='#e0e0e0' />
+  <text x='80' y='273.0' text-anchor='end'>525</text>
+  <line x1='90' y1='174.0' x2='940' y2='174.0' stroke='#e0e0e0' />
+  <text x='80' y='179.0' text-anchor='end'>700</text>
+  <line x1='90' y1='80.0' x2='940' y2='80.0' stroke='#e0e0e0' />
+  <text x='80' y='85.0' text-anchor='end'>875</text>
+  <line x1='90.0' y1='75' x2='90.0' y2='550' stroke='#e0e0e0' />
+  <text x='90.0' y='578' text-anchor='middle'>1994</text>
+  <line x1='231.66666666666666' y1='75' x2='231.66666666666666' y2='550' stroke='#e0e0e0' />
+  <text x='231.66666666666666' y='578' text-anchor='middle'>1999</text>
+  <line x1='373.3333333333333' y1='75' x2='373.3333333333333' y2='550' stroke='#e0e0e0' />
+  <text x='373.3333333333333' y='578' text-anchor='middle'>2004</text>
+  <line x1='515.0' y1='75' x2='515.0' y2='550' stroke='#e0e0e0' />
+  <text x='515.0' y='578' text-anchor='middle'>2009</text>
+  <line x1='656.6666666666666' y1='75' x2='656.6666666666666' y2='550' stroke='#e0e0e0' />
+  <text x='656.6666666666666' y='578' text-anchor='middle'>2014</text>
+  <line x1='798.3333333333334' y1='75' x2='798.3333333333334' y2='550' stroke='#e0e0e0' />
+  <text x='798.3333333333334' y='578' text-anchor='middle'>2019</text>
+  <line x1='940.0' y1='75' x2='940.0' y2='550' stroke='#e0e0e0' />
+  <text x='940.0' y='578' text-anchor='middle'>2024</text>
+  <polyline fill='none' stroke='#1f77b4' stroke-width='2' points='90.00,547.85 118.33,546.24 146.67,548.93 175.00,545.17 203.33,549.46 231.67,548.93 260.00,466.21 288.33,534.42 316.67,530.13 345.00,537.11 373.33,548.39 401.67,545.70 430.00,454.93 458.33,410.88 486.67,545.17 515.00,548.93 543.33,549.46 571.67,531.74 600.00,127.27 628.33,487.69 656.67,547.31 685.00,542.48 713.33,545.17 741.67,507.03 770.00,550.00 798.33,550.00 826.67,421.09 855.00,539.79 883.33,307.75 911.67,391.01 940.00,550.00' />
+  <circle cx='90.00' cy='547.85' r='2.5' fill='#1f77b4' />
+  <circle cx='118.33' cy='546.24' r='2.5' fill='#1f77b4' />
+  <circle cx='146.67' cy='548.93' r='2.5' fill='#1f77b4' />
+  <circle cx='175.00' cy='545.17' r='2.5' fill='#1f77b4' />
+  <circle cx='203.33' cy='549.46' r='2.5' fill='#1f77b4' />
+  <circle cx='231.67' cy='548.93' r='2.5' fill='#1f77b4' />
+  <circle cx='260.00' cy='466.21' r='2.5' fill='#1f77b4' />
+  <circle cx='288.33' cy='534.42' r='2.5' fill='#1f77b4' />
+  <circle cx='316.67' cy='530.13' r='2.5' fill='#1f77b4' />
+  <circle cx='345.00' cy='537.11' r='2.5' fill='#1f77b4' />
+  <circle cx='373.33' cy='548.39' r='2.5' fill='#1f77b4' />
+  <circle cx='401.67' cy='545.70' r='2.5' fill='#1f77b4' />
+  <circle cx='430.00' cy='454.93' r='2.5' fill='#1f77b4' />
+  <circle cx='458.33' cy='410.88' r='2.5' fill='#1f77b4' />
+  <circle cx='486.67' cy='545.17' r='2.5' fill='#1f77b4' />
+  <circle cx='515.00' cy='548.93' r='2.5' fill='#1f77b4' />
+  <circle cx='543.33' cy='549.46' r='2.5' fill='#1f77b4' />
+  <circle cx='571.67' cy='531.74' r='2.5' fill='#1f77b4' />
+  <circle cx='600.00' cy='127.27' r='2.5' fill='#1f77b4' />
+  <circle cx='628.33' cy='487.69' r='2.5' fill='#1f77b4' />
+  <circle cx='656.67' cy='547.31' r='2.5' fill='#1f77b4' />
+  <circle cx='685.00' cy='542.48' r='2.5' fill='#1f77b4' />
+  <circle cx='713.33' cy='545.17' r='2.5' fill='#1f77b4' />
+  <circle cx='741.67' cy='507.03' r='2.5' fill='#1f77b4' />
+  <circle cx='770.00' cy='550.00' r='2.5' fill='#1f77b4' />
+  <circle cx='798.33' cy='550.00' r='2.5' fill='#1f77b4' />
+  <circle cx='826.67' cy='421.09' r='2.5' fill='#1f77b4' />
+  <circle cx='855.00' cy='539.79' r='2.5' fill='#1f77b4' />
+  <circle cx='883.33' cy='307.75' r='2.5' fill='#1f77b4' />
+  <circle cx='911.67' cy='391.01' r='2.5' fill='#1f77b4' />
+  <circle cx='940.00' cy='550.00' r='2.5' fill='#1f77b4' />
+  <line x1='90.00' y1='544.42' x2='940.00' y2='459.21' stroke='#1f77b4' stroke-dasharray='6,4' stroke-width='2' />
+  <polyline fill='none' stroke='#ff7f0e' stroke-width='2' points='90.00,550.00 118.33,550.00 146.67,550.00 175.00,550.00 203.33,549.46 231.67,549.46 260.00,536.03 288.33,539.79 316.67,550.00 345.00,548.93 373.33,533.35 401.67,543.02 430.00,549.46 458.33,523.14 486.67,481.78 515.00,549.46 543.33,550.00 571.67,550.00 600.00,545.70 628.33,233.09 656.67,80.00 685.00,526.90 713.33,543.55 741.67,532.81 770.00,522.07 798.33,530.13 826.67,548.39 855.00,549.46 883.33,548.93 911.67,385.63 940.00,550.00' />
+  <circle cx='90.00' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='118.33' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='146.67' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='175.00' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='203.33' cy='549.46' r='2.5' fill='#ff7f0e' />
+  <circle cx='231.67' cy='549.46' r='2.5' fill='#ff7f0e' />
+  <circle cx='260.00' cy='536.03' r='2.5' fill='#ff7f0e' />
+  <circle cx='288.33' cy='539.79' r='2.5' fill='#ff7f0e' />
+  <circle cx='316.67' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='345.00' cy='548.93' r='2.5' fill='#ff7f0e' />
+  <circle cx='373.33' cy='533.35' r='2.5' fill='#ff7f0e' />
+  <circle cx='401.67' cy='543.02' r='2.5' fill='#ff7f0e' />
+  <circle cx='430.00' cy='549.46' r='2.5' fill='#ff7f0e' />
+  <circle cx='458.33' cy='523.14' r='2.5' fill='#ff7f0e' />
+  <circle cx='486.67' cy='481.78' r='2.5' fill='#ff7f0e' />
+  <circle cx='515.00' cy='549.46' r='2.5' fill='#ff7f0e' />
+  <circle cx='543.33' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='571.67' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='600.00' cy='545.70' r='2.5' fill='#ff7f0e' />
+  <circle cx='628.33' cy='233.09' r='2.5' fill='#ff7f0e' />
+  <circle cx='656.67' cy='80.00' r='2.5' fill='#ff7f0e' />
+  <circle cx='685.00' cy='526.90' r='2.5' fill='#ff7f0e' />
+  <circle cx='713.33' cy='543.55' r='2.5' fill='#ff7f0e' />
+  <circle cx='741.67' cy='532.81' r='2.5' fill='#ff7f0e' />
+  <circle cx='770.00' cy='522.07' r='2.5' fill='#ff7f0e' />
+  <circle cx='798.33' cy='530.13' r='2.5' fill='#ff7f0e' />
+  <circle cx='826.67' cy='548.39' r='2.5' fill='#ff7f0e' />
+  <circle cx='855.00' cy='549.46' r='2.5' fill='#ff7f0e' />
+  <circle cx='883.33' cy='548.93' r='2.5' fill='#ff7f0e' />
+  <circle cx='911.67' cy='385.63' r='2.5' fill='#ff7f0e' />
+  <circle cx='940.00' cy='550.00' r='2.5' fill='#ff7f0e' />
+  <line x1='90.00' y1='549.30' x2='940.00' y2='473.32' stroke='#ff7f0e' stroke-dasharray='6,4' stroke-width='2' />
+  <polyline fill='none' stroke='#2ca02c' stroke-width='2' points='90.00,548.39 118.33,530.13 146.67,548.39 175.00,548.93 203.33,546.24 231.67,549.46 260.00,547.85 288.33,539.79 316.67,547.31 345.00,550.00 373.33,544.09 401.67,546.24 430.00,539.79 458.33,545.70 486.67,540.87 515.00,548.39 543.33,541.94 571.67,539.79 600.00,541.94 628.33,506.49 656.67,408.73 685.00,541.94 713.33,530.13 741.67,540.33 770.00,502.19 798.33,418.94 826.67,545.17 855.00,550.00 883.33,550.00 911.67,546.78 940.00,541.94' />
+  <circle cx='90.00' cy='548.39' r='2.5' fill='#2ca02c' />
+  <circle cx='118.33' cy='530.13' r='2.5' fill='#2ca02c' />
+  <circle cx='146.67' cy='548.39' r='2.5' fill='#2ca02c' />
+  <circle cx='175.00' cy='548.93' r='2.5' fill='#2ca02c' />
+  <circle cx='203.33' cy='546.24' r='2.5' fill='#2ca02c' />
+  <circle cx='231.67' cy='549.46' r='2.5' fill='#2ca02c' />
+  <circle cx='260.00' cy='547.85' r='2.5' fill='#2ca02c' />
+  <circle cx='288.33' cy='539.79' r='2.5' fill='#2ca02c' />
+  <circle cx='316.67' cy='547.31' r='2.5' fill='#2ca02c' />
+  <circle cx='345.00' cy='550.00' r='2.5' fill='#2ca02c' />
+  <circle cx='373.33' cy='544.09' r='2.5' fill='#2ca02c' />
+  <circle cx='401.67' cy='546.24' r='2.5' fill='#2ca02c' />
+  <circle cx='430.00' cy='539.79' r='2.5' fill='#2ca02c' />
+  <circle cx='458.33' cy='545.70' r='2.5' fill='#2ca02c' />
+  <circle cx='486.67' cy='540.87' r='2.5' fill='#2ca02c' />
+  <circle cx='515.00' cy='548.39' r='2.5' fill='#2ca02c' />
+  <circle cx='543.33' cy='541.94' r='2.5' fill='#2ca02c' />
+  <circle cx='571.67' cy='539.79' r='2.5' fill='#2ca02c' />
+  <circle cx='600.00' cy='541.94' r='2.5' fill='#2ca02c' />
+  <circle cx='628.33' cy='506.49' r='2.5' fill='#2ca02c' />
+  <circle cx='656.67' cy='408.73' r='2.5' fill='#2ca02c' />
+  <circle cx='685.00' cy='541.94' r='2.5' fill='#2ca02c' />
+  <circle cx='713.33' cy='530.13' r='2.5' fill='#2ca02c' />
+  <circle cx='741.67' cy='540.33' r='2.5' fill='#2ca02c' />
+  <circle cx='770.00' cy='502.19' r='2.5' fill='#2ca02c' />
+  <circle cx='798.33' cy='418.94' r='2.5' fill='#2ca02c' />
+  <circle cx='826.67' cy='545.17' r='2.5' fill='#2ca02c' />
+  <circle cx='855.00' cy='550.00' r='2.5' fill='#2ca02c' />
+  <circle cx='883.33' cy='550.00' r='2.5' fill='#2ca02c' />
+  <circle cx='911.67' cy='546.78' r='2.5' fill='#2ca02c' />
+  <circle cx='940.00' cy='541.94' r='2.5' fill='#2ca02c' />
+  <line x1='90.00' y1='548.65' x2='940.00' y2='517.66' stroke='#2ca02c' stroke-dasharray='6,4' stroke-width='2' />
+  <rect x='950' y='67' width='16' height='3' fill='#1f77b4' />
+  <text class='legend' x='974' y='80'>Drought</text>
+  <text class='legend' x='974' y='96' fill='#444'>y = 5.29x + -10534, r = 0.28, p = 0.123</text>
+  <rect x='950' y='101' width='16' height='3' fill='#ff7f0e' />
+  <text class='legend' x='974' y='114'>Decline in Price</text>
+  <text class='legend' x='974' y='130' fill='#444'>y = 4.72x + -9401, r = 0.23, p = 0.220</text>
+  <rect x='950' y='135' width='16' height='3' fill='#2ca02c' />
+  <text class='legend' x='974' y='148'>Excess Moisture/Precipitation/Rain</text>
+  <text class='legend' x='974' y='164' fill='#444'>y = 1.92x + -3833, r = 0.28, p = 0.130</text>
+  <text class='subtitle' x='600.0' y='620' text-anchor='middle'>Source: Smith County corn claims (RMA)</text>
+</svg>
